@@ -36,10 +36,10 @@ O recorte temporal foi definido com base em marcos relevantes da política exter
 
 ## Alguns resultados
 
-Do HCL foi descoberto quais países que mais receberam empréstimos aqui na América Latina nos últimos 13 anos (a partir da criação do BRI até 2025) 
+A partir do dataset HCL, foi possível identificar quais países receberam mais empréstimos chineses na América Latina nos últimos 13 anos (2013–2025)  Lembrando que o recorte de 13 anos é em decorrência da criação do BRI (Belt and Road Initiative) para entender especificamente os avanços ocorridos durante esse período:
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/a5e9593f-20ef-4b8a-94d5-7cb2d1c98e0c" />
 
-Nos últimos 13 anos o Bank of China se tornou o maior credor da América Latina
+Nos últimos 13 anos o Bank of China se tornou o maior credor da América Latina.
 
 <img width="791" height="470" alt="image" src="https://github.com/user-attachments/assets/fe1519c9-6fcc-4733-b94f-a1f1143ff05e" />
 
@@ -47,11 +47,12 @@ Apesar do Import-Export Bank of China ter tido mais contratos nos últimos 13 an
 
 <img width="1388" height="490" alt="image" src="https://github.com/user-attachments/assets/59f2d26a-519d-4825-93c6-86219bfea968" />
 
-Evolução histórica de empréstimos conforme o GCDF (os dados vão até 2017 apenas)
+Evolução histórica de empréstimos segundo o GCDF — base com cobertura até 2017:
 
 <img width="1070" height="471" alt="image" src="https://github.com/user-attachments/assets/d40ef903-7b9e-465d-8d6e-fcbffa6384e9" />
 
-
+## Status
+🚧 Em desenvolvimento — novas análises serão adicionadas progressivamente.
 
 
 
