@@ -36,7 +36,8 @@ O recorte temporal foi definido com base em marcos relevantes da política exter
 
 ## Alguns resultados
 
-A partir do dataset HCL, foi possível identificar quais países receberam mais empréstimos chineses na América Latina nos últimos 13 anos (2013–2025)  Lembrando que o recorte de 13 anos é em decorrência da criação do BRI (Belt and Road Initiative) para entender especificamente os avanços ocorridos durante esse período:
+A partir do dataset HCL, foi possível identificar quais países receberam mais empréstimos chineses na América Latina nos últimos 13 anos (2013–2025). 
+O recorte segue o lançamento da Belt and Road Initiative (BRI), buscando compreender especificamente os avanços ocorridos durante esse período:
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/a5e9593f-20ef-4b8a-94d5-7cb2d1c98e0c" />
 
 Nos últimos 13 anos o Bank of China se tornou o maior credor da América Latina.
